@@ -7,6 +7,7 @@ repos:
         exclude: ^(assets/banner\.png|docs/.*\.pdf)$
       - id: end-of-file-fixer
       - id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
       - id: mixed-line-ending
         args: [--fix=lf]
         exclude: ^scripts/.*\.ps1$
