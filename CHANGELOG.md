@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - `docs/GALLERY.md` plus tracked speed-test proof images under `assets/gallery/`
+- Approved battlestation photo and motion clip under `assets/gallery/` for public repo presentation
 
 ## [1.1.0] - 2026-04-15
 

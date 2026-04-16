@@ -6,8 +6,24 @@ These visuals support the written report without trying to replace it.
 ## Snapshot Context
 
 - Snapshot date: 2026-04-15
-- Focus: network validation and public-facing proof points
+- Focus: battlestation presentation, network validation, and public-facing proof points
 - Primary report: [G3-ROG-ACTUAL_System_Health_Report.md](G3-ROG-ACTUAL_System_Health_Report.md)
+
+## Battlestation
+
+### Current Setup Photo
+
+![g3ROG-actual battlestation photo from 2026-04-16](../assets/gallery/g3rog-actual_2026-04-16.jpeg)
+
+- Capture date: 2026-04-16
+- View: full desk, monitor stack, and under-desk chassis presentation
+- Notes: this is the clean public-facing battlestation image for the current repo presentation
+
+### Motion Clip
+
+- [Download battlestation clip](../assets/gallery/g3rog-actual_2026-04-16.mov)
+- Format: `.mov`
+- Use: optional ambient proof-of-setup asset rather than a primary document artifact
 
 ## Network Validation
 

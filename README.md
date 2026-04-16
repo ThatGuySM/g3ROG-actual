@@ -69,6 +69,12 @@ The downloadable PDF in `docs/` was regenerated from the same 2026 markdown snap
 These images are lightweight proof artifacts from the April 15, 2026 snapshot.
 The full gallery lives in [docs/GALLERY.md](docs/GALLERY.md).
 
+### Battlestation
+
+![g3ROG-actual battlestation photo from 2026-04-16](assets/gallery/g3rog-actual_2026-04-16.jpeg)
+
+The gallery also includes a downloadable motion clip of the same setup view.
+
 | Desktop throughput snapshot | Gateway throughput snapshot |
 | --- | --- |
 | ![Desktop Speedtest.net result from 2026-04-15](assets/gallery/desktop_speedtest_2026-04-15.png) | ![eero Max 7 gateway speed test from 2026-04-15](assets/gallery/eero_gateway_speedtest_2026-04-15.png) |
