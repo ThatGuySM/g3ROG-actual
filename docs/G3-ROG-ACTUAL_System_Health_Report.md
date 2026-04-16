@@ -1,4 +1,4 @@
-# G3-ROG-ACTUAL - System Health Report
+# g3ROG-actual - System Health Report
 
 ## Audit Snapshot
 

@@ -1,4 +1,4 @@
-# G3-ROG-ACTUAL v1.1.0 - 2026 Audit Refresh
+# g3ROG-actual v1.1.0 - 2026 Audit Refresh
 
 This release promotes the April 15, 2026 system snapshot into the main public report set and turns the repo into a cleaner repeatable audit workflow.
 

@@ -1,6 +1,6 @@
 # Latest Audit
 
-This page is the stable entrypoint for the latest published G3-ROG-ACTUAL audit.
+This page is the stable entrypoint for the latest published `g3ROG-actual` audit.
 Use this page in the README and external links so the repo can evolve without breaking the main entrypoint.
 
 ## Current Published Snapshot

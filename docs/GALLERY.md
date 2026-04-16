@@ -13,7 +13,7 @@ These visuals support the written report without trying to replace it.
 
 ### Final Share Card
 
-![GitHub social preview card for G3-ROG-ACTUAL](../assets/social/social-preview_2026-04-16.png)
+![GitHub social preview card for g3ROG-actual](../assets/social/social-preview_2026-04-16.png)
 
 - Asset: [social-preview_2026-04-16.png](../assets/social/social-preview_2026-04-16.png)
 - Format: `PNG`

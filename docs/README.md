@@ -1,6 +1,6 @@
 # Docs Hub
 
-This folder is the public documentation center for G3-ROG-ACTUAL.
+This folder is the public documentation center for `g3ROG-actual`.
 If you are visiting the repo for the first time, start with `LATEST.md`.
 
 ## Start Here

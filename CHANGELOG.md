@@ -45,7 +45,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Initial public release of **G3-ROG-ACTUAL Audit Repo**
+- Initial public release of the **g3ROG-actual audit repo**
 - README with badges & system overview
 - docs/: System Health Report (PDF + MD)
 - assets/: Clean banner (GitHub-ready)

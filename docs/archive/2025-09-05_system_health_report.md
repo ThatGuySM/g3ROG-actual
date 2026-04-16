@@ -1,4 +1,4 @@
-# G3-ROG-ACTUAL - System Health Report
+# g3ROG-actual - System Health Report
 
 Archived snapshot originally published for the 2025 release cycle.
 This file is kept for historical reference after the 2026 markdown report replaced it as the main published snapshot.
@@ -10,7 +10,7 @@ Patch level, security posture, temperatures, fan speeds, and background processe
 
 ## System Summary
 
-- Computer: G3-ROG-ACTUAL
+- Computer: g3ROG-actual
 - OS: Windows 11 Enterprise 24H2 (10.0.26100.5074)
 - DirectX: 12.0
 - User/Domain: Redacted in archived public snapshot
@@ -75,4 +75,4 @@ Patch level, security posture, temperatures, fan speeds, and background processe
 
 ## Final Takeaway
 
-G3-ROG-ACTUAL was documented as a top-tier powerhouse rig running cool, stable, and efficient during the 2025 snapshot window.
+g3ROG-actual was documented as a top-tier powerhouse rig running cool, stable, and efficient during the 2025 snapshot window.

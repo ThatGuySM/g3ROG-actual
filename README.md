@@ -1,8 +1,8 @@
 ![g3ROG-actual Banner](assets/images/banner-2026-04-16.png)
 
-# G3-ROG-ACTUAL – System Health & Specs
+# g3ROG-actual – System Health & Specs
 
-Welcome to the system audit for **ThatGuyᴼᴳ’s battle-station** — codename **G3-ROG-ACTUAL**.
+Welcome to the system audit for **ThatGuyᴼᴳ’s battlestation** — codename **g3ROG-actual**.
 This README captures the rig’s full specs, health status, and benchmark results.
 It is designed for GitHub presentation with quick-links, badges, and collapsible sections.
 

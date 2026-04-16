@@ -45,7 +45,7 @@ git checkout main
 git pull
 
 Step "Tagging $Version"
-git tag $Version -m "G3-ROG-ACTUAL $Version — $Notes"
+git tag $Version -m "g3ROG-actual $Version — $Notes"
 git push --tags
 
 Ok "Done. Tagged $Version."

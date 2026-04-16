@@ -105,7 +105,7 @@ $startupSummary = $startup | ForEach-Object {
 }
 
 $reportLines = @(
-    "# G3-ROG-ACTUAL Local Audit Collection",
+    "# g3ROG-actual Local Audit Collection",
     "",
     "Snapshot date: $($systemSummary.SnapshotDate)",
     "",

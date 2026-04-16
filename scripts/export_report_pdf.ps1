@@ -40,7 +40,7 @@ $html = @"
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>G3-ROG-ACTUAL - System Health Report</title>
+  <title>g3ROG-actual - System Health Report</title>
   <style>
     body {
       font-family: "Segoe UI", Arial, sans-serif;
