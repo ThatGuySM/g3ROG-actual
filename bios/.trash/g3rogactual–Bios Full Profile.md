@@ -81,4 +81,3 @@ CPU/Chassis Fan Profiles [Turbo] (customize later if desired)
 
 1. `Tool → ASUS User Profile → Save to Profile` (e.g., **FULL\_CO‑10\_USB4**)
 2. `Tool → ASUS User Profile → Load/Save to USB → Save` → get your portable **.CMO**
-

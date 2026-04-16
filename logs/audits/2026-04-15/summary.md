@@ -9,7 +9,7 @@ Snapshot date: 2026-04-15
 - Operating system: Microsoft Windows 11 Enterprise (10.0.26200 build 26200)
 - User/domain: [review before publication] / [review before publication]
 - Total memory: 61.66 GB
-- CPU: AMD Ryzen 7 9800X3D 8-Core Processor           
+- CPU: AMD Ryzen 7 9800X3D 8-Core Processor  
 - Motherboard: ASUSTeK COMPUTER INC. ROG STRIX B650E-F GAMING WIFI
 - BIOS: 3602
 - Last Windows hotfix: KB5086672 on 04/08/2026 00:00:00

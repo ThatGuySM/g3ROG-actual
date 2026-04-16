@@ -6,9 +6,11 @@ repos:
       - id: check-added-large-files
         exclude: ^(assets/banner\.png|docs/.*\.pdf)$
       - id: end-of-file-fixer
+        exclude: ^bios/\.trash/
       - id: trailing-whitespace
         args: [--markdown-linebreak-ext=md]
+        exclude: ^bios/\.trash/
       - id: mixed-line-ending
         args: [--fix=lf]
-        exclude: ^scripts/.*\.ps1$
+        exclude: ^(scripts/.*\.ps1$|bios/\.trash/)
       - id: check-yaml
